@@ -1,4 +1,7 @@
-### hm?
+## Hello, I'm Faalcc!
+I'm learning web development and I might learn some other programming languages soon.
+If you ever want to contact me, send me a DM on discord, my username is `faalcc`.
+
 
 <!--
 **Faalcc/faalcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
